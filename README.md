@@ -1,4 +1,4 @@
-- 👋 Hola Me llamo vicente U. de chile colo coloncolo lo mas grande
+- 👋 Hola Me llamo me gusta colo colo lo mas grande
 - 👀 I’m interested in JS 
 - 🌱 I’m currently learning HTML TS CSS JS
 - 💞️ I’m looking to collaborate on EVERYONE 
