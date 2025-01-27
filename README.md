@@ -1,4 +1,4 @@
-- 👋 Hola Me llamo Vicente Uribe Galaz aaa
+- 👋 Hola Me llamo Vicente Uribe Galaz 
 - 👀 me gusta colo colo lo mas grande de chile
 - 👀 I’m interested in JS And The people 
 - 🌱 I’m currently learning HTML TS CSS JS tailwind boostrap 
