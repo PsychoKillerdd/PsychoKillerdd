@@ -2,6 +2,7 @@
 - 👀 me gusta colo colo lo mas grande de chile
 - 👀 I’m interested in JS And The people 
 - 🌱 I’m currently learning HTML TS CSS JS tailwind boostrap
+- Cosas de interest Angular
 ###
 
 <div align="center">
