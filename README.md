@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy PsychoKillerdd</h1>
 
 <p align="center">
   <b>Desarrollador Frontend apasionado por el código limpio, el diseño elegante y las tecnologías modernas.</b>
@@ -43,9 +43,9 @@
 <h2 align="center">📈 Estadísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PsychoKillerdd&show_icons=true&theme=radical&hide_title=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsychoKillerdd&layout=compact&theme=radical" />
 </p>
 
 ---
