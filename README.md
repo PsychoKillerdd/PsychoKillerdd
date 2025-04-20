@@ -1,24 +1,59 @@
-- 👋 Hola Me llamo Vicente Uribe Galaz 
-- 👀 me gusta colo colo lo mas grande de chile
-- 👀 I’m interested in JS And The people 
-- 🌱 I’m currently learning HTML TS CSS JS tailwind boostrap
-- Cosas de interest Angular
-###
+<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PsychoKillerdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PsychoKillerdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=PsychoKillerdd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<img align="right" height="300" src="https://i.pinimg.com/736x/ec/43/1a/ec431a3da26fe51cce152f6773d1d4ce.jpg"  />
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-<br>
+<p align="center">
+  <b>Desarrollador Frontend apasionado por el código limpio, el diseño elegante y las tecnologías modernas.</b>
+</p>
+
+---
+
+<h2 align="center">🚀 Tecnologías que amo</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/astrolabs/astro/astro/packages/astro/assets/logo.svg" width="50" height="50" alt="Astro" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://bun.sh/logo.svg" width="50" height="50" alt="Bun" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="50" height="50" alt="Svelte" />
+</p>
+
+---
+
+<h2 align="center">🌈 Un poco sobre mí</h2>
+
+- 🎯 Siempre en busca de nuevos retos.
+- 💻 Amante del frontend moderno y la performance.
+- 📚 Aprendiendo constantemente nuevas tecnologías.
+- 🧠 Mi editor favorito: VS Code.
+- 🌍 ¡Colaboro en proyectos open source y me encanta compartir lo que sé!
+
+---
+
+<h2 align="center">📈 Estadísticas</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_title=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h2 align="center">🌐 Conéctate conmigo</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/TU_TWITTER" target="_blank">Twitter</a> •
+  <a href="https://TU_PORTAFOLIO.com" target="_blank">Portafolio</a>
+</p>
