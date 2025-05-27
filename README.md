@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍣 I love sushi 🦆🦆🦆<br>🍤 I love programming<br>🍱 I'm really excited to keep learning<br>🎎 I love anime and anime girls<br>👺 I'm from Chile, nice to meet you!<br>🇨🇱
+🍣 I love sushi 🦆🦆🦆<br>🍤 I love programming<br>🍱 I'm really excited to keep learning<br>🎎 I love anime and anime girls<br>👺 I'm from Chile, nice to meet you!<br>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae67dbcc-91f7-4369-a654-3159c9f4a09f/dh6enz2-2d7fa61a-5fbe-45f9-b0bb-47d4b3b7e43f.jpg/v1/fill/w_1192,h_670,q_70,strp/high_quality_4k_100kanojo_wallpaper_by_sdugoten_dh6enz2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYWU2N2RiY2MtOTFmNy00MzY5LWE2NTQtMzE1OWM5ZjRhMDlmXC9kaDZlbnoyLTJkN2ZhNjFhLTVmYmUtNDVmOS1iMGJiLTQ3ZDRiM2I3ZTQzZi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jVmV62mRzP69moaQUPQyYKjsWIsaVn53I-Wx2xiPAbg">
 
 ## 🌐 Socials:
