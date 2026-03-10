@@ -76,10 +76,8 @@ I enjoy designing APIs, understanding how systems scale, and learning the princi
 ---
 
 ## 🌐 Connect with me
-
-- 💻 GitHub: https://github.com/your-github
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn:[ https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vicente-uribe-67ab9127b/)
+- 📧 Email: vicente.uribe6858@gmail.com
 
 ---
 
