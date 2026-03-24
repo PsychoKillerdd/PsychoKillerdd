@@ -20,12 +20,13 @@ I enjoy designing APIs, understanding how systems scale, and learning the princi
 - Java
 - REST APIs
 - SQL
+- Python
+- Jenkins
+- CI/CD
 
 ### Frontend
 - TypeScript
 - JavaScript
-- Vue
-- React
 - Angular
 
 ### Database
@@ -52,37 +53,24 @@ I enjoy designing APIs, understanding how systems scale, and learning the princi
 ---
 
 ## 🧠 A bit more about me
-
-- 📍 Based in **Maipú, Santiago, Chile**
 - 🏋️ I enjoy going to the gym and staying consistent
 - 📈 I like self-directed learning and improving step by step
 - 💻 Focused on becoming a stronger backend engineer
-
 ---
-
 ## 🎯 Goals
-
 - Grow as a backend developer
 - Build projects with **clean architecture**
 - Improve my **English for work and collaboration**
 - Keep learning modern tools and best practices
-
 ---
-
 ## 🎧 Recently Played on Spotify
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=zfp85z2btqscs05q1s1zr7t5e)
-
 ---
-
 ## 🌐 Connect with me
 - 💼 LinkedIn:[ https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vicente-uribe-67ab9127b/)
 - 📧 Email: vicente.uribe6858@gmail.com
-
 ---
-
 ## 🛠 Languages and Tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
@@ -95,7 +83,5 @@ I enjoy designing APIs, understanding how systems scale, and learning the princi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
 </p>
-
 ---
-
 ⭐ Thanks for visiting my profile!
