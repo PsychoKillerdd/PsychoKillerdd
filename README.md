@@ -1,7 +1,9 @@
 # Hi there, I'm Vicente Uribe 👋
 
 Full Stack developer from Chile 🇨🇱 passionate about building solid applications, learning software architecture, and improving every day.
-
+Ingeniero en Informática con experiencia en desarrollo full stack, participando en la construcción de APIs REST, desarrollo de funcionalidades web e integración entre sistemas. He trabajado con TypeScript (Node.js, Express) y Java (Spring Boot) en el desarrollo de soluciones orientadas a la gestión y visualización de datos, además de bases de datos relacionales. Me interesa seguir desarrollándome en el área full stack, con especial foco en backend y en la construcción de soluciones eficientes, mantenibles y escalables
+---
+Computer Engineer with experience in full-stack development, contributing to the design and implementation of REST APIs, web features, and system integrations. I have worked with TypeScript (Node.js, Express) and Java (Spring Boot) to develop solutions focused on data management and visualization, as well as relational databases. I am interested in continuing to grow in full-stack development, with a stronger focus on backend and on building efficient, maintainable, and scalable solutions.
 ---
 ## 🌐 Connect with me
 - 💼 LinkedIn:[ https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vicente-uribe-67ab9127b/)
