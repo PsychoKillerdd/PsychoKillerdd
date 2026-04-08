@@ -1,9 +1,10 @@
 # Hi there, I'm Vicente Uribe 👋
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zfp85z2btqscs05q1s1zr7t5e)
 
 **Cloud Engineer (AWS) | Java | Backend Systems | REST APIs | Cloud & DevOps**
 
 Backend-focused Computer Engineer from Chile 🇨🇱, building scalable systems and cloud-based solutions.
-
+ 
 ---
 
 ## About me
@@ -127,12 +128,6 @@ I’m especially interested in **distributed systems**, backend architecture, an
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PsychoKillerdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PsychoKillerdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 ## Connect with me
@@ -143,3 +138,5 @@ I’m especially interested in **distributed systems**, backend architecture, an
 ---
 
 ## Thanks for visiting ⭐
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PsychoKillerdd&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PsychoKillerdd&theme=tokyonight)
