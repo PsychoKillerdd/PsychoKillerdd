@@ -50,12 +50,8 @@ I’m especially interested in **distributed systems**, backend architecture, an
 
 ### DevOps
 - Docker  
-- CI/CD Pipelines  
-- GitHub Actions  
 
-### Architecture & Practices
-- Layered Architecture  
-- Scalable System Design  
+### Architecture & Practices  
 - Clean Code  
 - SOLID Principles  
 
@@ -65,7 +61,7 @@ I’m especially interested in **distributed systems**, backend architecture, an
 - JavaScript  
 
 ### Frontend (basic knowledge)
-- Vue.js  
+- React  
 - Angular  
 - Svelte  
 
@@ -73,7 +69,6 @@ I’m especially interested in **distributed systems**, backend architecture, an
 - Git  
 - GitHub  
 - Maven  
-- Gradle  
 - IntelliJ IDEA  
 - Agile / Scrum  
 
