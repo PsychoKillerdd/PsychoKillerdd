@@ -78,11 +78,8 @@ I’m especially interested in **distributed systems**, backend architecture, an
 - Claude  
 
 ---
-
 ## Tech Stack
-
 <p align="left">
-
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
@@ -90,48 +87,29 @@ I’m especially interested in **distributed systems**, backend architecture, an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" height="40"/>
-
 <!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-
 <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40"/>
-
 <!-- Database -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-
 <!-- Cloud -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-
 <!-- DevOps -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
-
 </p>
-
 ---
-<div align="center">
-  <a href="https://open.spotify.com/user/The Vicente Rock">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=The%20Vicente%20Rock&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-###
-
 ## Connect with me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vicente-uribe-67ab9127b/  
 - 📧 Email: vicente.uribe6858@gmail.com  
-
 ---
-
 ## Thanks for visiting ⭐
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PsychoKillerdd&layout=compact&theme=tokyonight)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PsychoKillerdd&theme=tokyonight)
